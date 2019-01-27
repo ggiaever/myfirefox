@@ -1,3 +1,3 @@
 # myfirefox
 
-# check it out here http:/ggiaever.github.io/my-first-repository/
+# check it out here http:/ggiaever.github.io/myfirefox
